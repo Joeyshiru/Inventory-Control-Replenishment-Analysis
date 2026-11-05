@@ -10,12 +10,10 @@ The objective is to improve inventory visibility, identify stockout risks, evalu
 
 ### Dashboard Overview
 
-![Inventory Dashboard Overview](Dashboard_Overview.png)
-
+![Inventory Dashboard Overview](Dashboard_Overview.png.png)
 ### Dashboard Analysis
 
-![Inventory Dashboard Analysis](Dashboard_Analysis.png)
-
+![Inventory Dashboard Analysis](Dashboard_Analysis.png.png)
 The interactive dashboard provides an overview of inventory performance through five KPI cards, five analytical charts, and a category slicer that allows users to filter and explore inventory data.
 
 ## Business Objectives
